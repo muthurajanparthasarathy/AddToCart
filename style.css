@@ -164,7 +164,7 @@ select {
     background: #ffffff url('down.png') no-repeat right center; /* Adds background color */
     background-size: 8px; /* Reduces the size of the icon */
     background-position-x: calc(100% - 8px); /* Adjust the icon's horizontal position */
-    font-size: 10px; /* Optional: adjust text size */
+    font-size: 16px; /* Optional: adjust text size */
 }
 
 
